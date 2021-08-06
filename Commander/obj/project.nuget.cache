@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Da6hheIGH7gOiiFYzafjnKu4L9Tsh569diQ3dbwg6iGdMXbdghAecvKt91qZEJ3ijPEOSwJwAdm7Lou1GSZB1A==",
+  "dgSpecHash": "r2FQMmEQsWzr7jtO5u1Fxb6AYy94LptIIsmAZ575SZ9nCIjNNNa+47aG3Di84Tv9/ihuLBBt5YWz3uLxyoOmvw==",
   "success": true,
-  "projectFilePath": "C:\\learn\\crash_course\\Commander\\Commander.csproj",
+  "projectFilePath": "C:\\learn\\crash_course\\mvc_rest_api\\Commander\\Commander.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\00209875283\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\00209875283\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
