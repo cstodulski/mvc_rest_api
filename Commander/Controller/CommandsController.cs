@@ -27,7 +27,6 @@ namespace Commander.Controllers
             var commandItem = _repository.GetCommandById(id);
             return Ok(commandItem);
         }
-
-        //i make shit?
+        
     }
 }
