@@ -28,5 +28,6 @@ namespace Commander.Controllers
             return Ok(commandItem);
         }
 
+        //i make shit?
     }
 }
