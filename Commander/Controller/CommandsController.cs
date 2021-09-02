@@ -17,7 +17,7 @@ namespace Commander.Controllers
         {
             var commandItems = _repository.GetAppCommands();
 
-            return Ok(commandItems);
+            return Ok(commandItems); 
         }
 
         //GET api/commands/{id}
