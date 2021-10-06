@@ -36,3 +36,5 @@ C:\learn\crash_course\mvc_rest_api\Commander\bin\Debug\net5.0\Microsoft.Extensio
 C:\learn\crash_course\mvc_rest_api\Commander\bin\Debug\net5.0\Npgsql.dll
 C:\learn\crash_course\mvc_rest_api\Commander\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
 C:\learn\crash_course\mvc_rest_api\Commander\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\learn\crash_course\mvc_rest_api\Commander\bin\Debug\net5.0\AutoMapper.dll
+C:\learn\crash_course\mvc_rest_api\Commander\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
