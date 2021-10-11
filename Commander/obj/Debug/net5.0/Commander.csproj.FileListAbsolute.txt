@@ -18,10 +18,8 @@ C:\learn\crash_course\mvc_rest_api\Commander\obj\Debug\net5.0\Commander.csproj.C
 C:\learn\crash_course\mvc_rest_api\Commander\obj\Debug\net5.0\Commander.MvcApplicationPartsAssemblyInfo.cs
 C:\learn\crash_course\mvc_rest_api\Commander\obj\Debug\net5.0\Commander.MvcApplicationPartsAssemblyInfo.cache
 C:\learn\crash_course\mvc_rest_api\Commander\obj\Debug\net5.0\staticwebassets\Commander.StaticWebAssets.Manifest.cache
-C:\learn\crash_course\mvc_rest_api\Commander\obj\Debug\net5.0\staticwebassets\Commander.StaticWebAssets.xml
 C:\learn\crash_course\mvc_rest_api\Commander\obj\Debug\net5.0\scopedcss\bundle\Commander.styles.css
 C:\learn\crash_course\mvc_rest_api\Commander\obj\Debug\net5.0\Commander.RazorTargetAssemblyInfo.cache
-C:\learn\crash_course\mvc_rest_api\Commander\obj\Debug\net5.0\Commander.csproj.CopyComplete
 C:\learn\crash_course\mvc_rest_api\Commander\obj\Debug\net5.0\Commander.dll
 C:\learn\crash_course\mvc_rest_api\Commander\obj\Debug\net5.0\ref\Commander.dll
 C:\learn\crash_course\mvc_rest_api\Commander\obj\Debug\net5.0\Commander.pdb

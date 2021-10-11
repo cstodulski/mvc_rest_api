@@ -8,12 +8,7 @@ namespace Commander.Data
     {
         public void CreateCommand(Command cmd)
         {
-            // if(cmd == null)
-            // {
-            //     throw new ArgumentNullException(nameof(cmd));
-            // }
-
-
+            throw new System.NotImplementedException(); //study how to use this like a post later
         }
 
         public IEnumerable<Command> GetAllCommands()
