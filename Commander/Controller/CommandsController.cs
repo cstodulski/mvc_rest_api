@@ -72,7 +72,7 @@ namespace Commander.Controllers
 
             _repository.SaveChanges();
 
-            return NoContent();
+            return Ok();
         }
 
         //PATCH api/commands/{id}

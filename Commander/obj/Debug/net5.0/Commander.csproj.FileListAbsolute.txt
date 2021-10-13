@@ -40,4 +40,3 @@ C:\learn\crash_course\mvc_rest_api\Commander\bin\Debug\net5.0\Microsoft.AspNetCo
 C:\learn\crash_course\mvc_rest_api\Commander\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 C:\learn\crash_course\mvc_rest_api\Commander\bin\Debug\net5.0\Newtonsoft.Json.dll
 C:\learn\crash_course\mvc_rest_api\Commander\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
-C:\learn\crash_course\mvc_rest_api\Commander\obj\Debug\net5.0\Commander.csproj.CopyComplete
