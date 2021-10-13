@@ -11,6 +11,11 @@ namespace Commander.Data
             throw new System.NotImplementedException(); //study how to use this like a post later
         }
 
+        public void DeleteCommand(Command cmd)
+        {
+            throw new NotImplementedException();
+        }
+
         public IEnumerable<Command> GetAllCommands()
         {
             var commands = new List<Command>
@@ -31,6 +36,11 @@ namespace Commander.Data
         public bool SaveChanges()
         {
             throw new System.NotImplementedException();
+        }
+
+        public void UpdateCommand(Command cmd)
+        {
+            throw new NotImplementedException();
         }
     }
 }
